@@ -61,6 +61,24 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Цветочная палитра
+				flower: {
+					50: '#F8FFF8',
+					100: '#F2FCE2', 
+					200: '#E8F5D0',
+					300: '#C8F2C5',
+					400: '#A8E6A3',
+					500: '#78F2C5',
+					600: '#2D5A2D',
+					700: '#1A4D1A',
+					800: '#0F3D0F',
+					900: '#072607'
+				},
+				fresh: {
+					high: '#22C55E',
+					medium: '#EAB308', 
+					low: '#EF4444'
 				}
 			},
 			borderRadius: {
